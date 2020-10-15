@@ -1,0 +1,17 @@
+HexoComponent:
+  Component: hexo
+  Provider: alibaba
+  Extends:
+    deploy:
+      - Hook: npm install --production
+        Path: ./src
+        Pre: true
+      - Hook: npm run build
+        Path: ./src
+        Pre: true
+  Properties:
+    Region: 'cn-hangzhou'
+    CodeUri: './src'
+    Detail:
+      Service:
+        Name: demo

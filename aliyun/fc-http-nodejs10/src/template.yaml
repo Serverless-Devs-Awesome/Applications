@@ -1,0 +1,27 @@
+MyFunctionDemo:
+  Component: fc
+  Provider: alibaba
+  Properties:
+    Region: cn-hangzhou
+    Service:
+      Name: ServerlessToolProject
+      Description: 欢迎使用ServerlessTool
+    Function:
+      Name: serverless_demo_nodejs10_http
+      Description: 这是一个Nodejs10-HTTP的测试案例
+      CodeUri: ./
+      Handler: index.handler
+      MemorySize: 128
+      Runtime: nodejs10
+      Timeout: 5
+      Triggers:
+        - Name: TriggerNameHttp
+          Type: HTTP
+          Parameters:
+            AuthType: ANONYMOUS
+            Methods:
+              - GET
+              - POST
+              - PUT
+            Domains:
+              - Domain: AUTO

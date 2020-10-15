@@ -1,0 +1,20 @@
+Type: Application
+Name: python3-http
+Version: 0.0.6
+Provider:
+  - Alibaba
+Description: 快速部署一个Python3的HTTP类型的Hello World函数到阿里云函数计算。
+HomePage: https://serverless.aliyun.com/
+Tags:
+  - 函数计算
+  - 你好世界
+  - 新手入门
+Category: 新手入门
+Service:
+  函数计算:
+    Authorities:
+      - 创建函数
+      - 删除函数
+      - 创建服务
+      - 删除服务
+    Runtime: Python

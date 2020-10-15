@@ -1,0 +1,20 @@
+Type: Application
+Name: php56
+Version: 0.0.2
+Provider:
+  - Tencent
+Description: 快速部署一个PHP5.6的Event类型的Hello World函数到腾讯云函数计算。
+HomePage: https://cloud.tencent.com/product/scf
+Tags:
+  - 函数计算
+  - 你好世界
+  - 新手入门
+Category: 新手入门
+Service:
+  函数计算:
+    Authorities:
+      - 创建函数
+      - 删除函数
+      - 创建服务
+      - 删除服务
+    Runtime: PHP

@@ -1,0 +1,28 @@
+MyFunctionDemo:
+  Component: /Users/jiangyu/Desktop/components/tencent-scf/src
+  Provider: tencent
+  Properties:
+    Region: ap-shanghai
+    Namespace:
+      Name: default
+    Function:
+      Name: serverless_demo_nodejs89_http
+      Description: 这是一个Node.JS 8.9的测试案例
+      CodeUri: ./
+      Handler: index.handler
+      MemorySize: 128
+      Runtime: Nodejs8.9
+      Timeout: 5
+      Triggers:
+        - Type: apigw # api网关触发器，无apigw服务，自动创建服务
+          Name: Mydemo
+          Parameters:
+            Service:
+              Name: serverlessdevs
+              Protocols:
+                - http
+              Description: the serverless service
+              Environment: release
+            API:
+              - path: /test
+                method: GET

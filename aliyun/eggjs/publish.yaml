@@ -1,0 +1,19 @@
+Type: Application
+Name: egg
+Version: 0.0.6
+Provider:
+  - Alibaba
+Description: 快速部署一个Egg框架到阿里云函数计算
+HomePage: https://serverless.aliyun.com/
+Tags:
+  - egg
+  - web
+Category: Web框架
+Service:
+  函数计算:
+    Authorities:
+      - 创建函数
+      - 删除函数
+      - 创建服务
+      - 删除服务
+    Runtime: Python

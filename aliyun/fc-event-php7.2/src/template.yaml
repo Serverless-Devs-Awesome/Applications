@@ -1,0 +1,16 @@
+MyFunctionDemo:
+  Component: fc
+  Provider: alibaba
+  Properties:
+    Region: cn-hangzhou
+    Service:
+      Name: ServerlessToolProject
+      Description: 欢迎使用ServerlessTool
+    Function:
+      Name: serverless_demo_php72
+      Description: 这是一个PHP7.2的测试案例
+      CodeUri: ./
+      Handler: index.handler
+      MemorySize: 128
+      Runtime: php7.2
+      Timeout: 5

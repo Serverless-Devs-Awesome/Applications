@@ -1,0 +1,12 @@
+BottleComponent:
+  Component: bottle
+  Provider: alibaba
+  Extends:
+    deploy:
+      - Hook: pip3 install -r requirements.txt -t ./
+        Path: ./src
+        Pre: true
+  Properties:
+    Region: 'cn-hangzhou'
+    CodeUri: './src'
+    App: index.py

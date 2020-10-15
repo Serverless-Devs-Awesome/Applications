@@ -1,0 +1,19 @@
+Type: Application
+Name: nuxtjs
+Version: 0.0.4
+Provider:
+  - Alibaba
+Description: 快速部署一个Nuxt.JS框架到阿里云函数计算
+HomePage: https://serverless.aliyun.com/
+Tags:
+  - nuxtjs
+  - web
+Category: Web框架
+Service:
+  函数计算:
+    Authorities:
+      - 创建函数
+      - 删除函数
+      - 创建服务
+      - 删除服务
+    Runtime: Node.JS

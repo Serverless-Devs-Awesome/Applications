@@ -1,0 +1,12 @@
+TornadoComponent:
+  Component: tornado
+  Provider: alibaba
+  Extends:
+    deploy:
+      - Hook: pip3 install -r requirements.txt -t ./
+        Path: ./src
+        Pre: true
+  Properties:
+    Region: 'cn-hangzhou'
+    CodeUri: './src'
+    App: server.py
