@@ -19,7 +19,6 @@
     ![](https://images.serverlessfans.com/s-tool/zh/start-6.jpg)
     此处选择我们配置好的密钥，按回车继续部署：
     ![](https://images.serverlessfans.com/s-tool/zh/start-5.jpg)
-    稍等片刻，即可看到成功部署，此时我们来到线上，即可看到我们的函数，例如：
-    ![](https://images.serverlessfans.com/s-tool/zh/start-7.jpg)
+    稍等片刻，即可看到成功部署，此时我们来到线上，即可看到我们的函数。
     
 - 至此，我们完成了简单的函数部署功能。
