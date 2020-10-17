@@ -1,9 +1,9 @@
 Type: Application
-Name: nodejs1216
-Version: 0.0.2
+Name: php72-http
+Version: 0.0.1
 Provider:
   - Tencent
-Description: 快速部署一个Node.JS 12.16的Event类型的Hello World函数到腾讯云函数计算。
+Description: 快速部署一个PHP7.2的Http类型的Hello World函数到腾讯云函数计算。
 HomePage: https://cloud.tencent.com/product/scf
 Tags:
   - 函数计算

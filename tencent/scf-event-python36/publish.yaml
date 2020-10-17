@@ -1,6 +1,6 @@
 Type: Application
 Name: python3
-Version: 0.0.1
+Version: 0.0.2
 Provider:
   - tencent
 Description: 快速部署一个Python3.6的Event类型的Hello World函数到腾讯云函数计算。

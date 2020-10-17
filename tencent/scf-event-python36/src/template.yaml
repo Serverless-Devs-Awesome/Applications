@@ -9,7 +9,7 @@ MyFunctionDemo:
       Name: serverless_demo_python36a
       Description: 这是一个Python3的测试案例
       CodeUri: ./
-      Handler: index.handler
+      Handler: index.main_handler
       MemorySize: 128
       Runtime: Python3.6
       Timeout: 5

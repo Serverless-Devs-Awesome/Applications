@@ -1,6 +1,6 @@
 Type: Application
 Name: nodejs89
-Version: 0.0.1
+Version: 0.0.2
 Provider:
   - Tencent
 Description: 快速部署一个Node.JS 8.9的Event类型的Hello World函数到腾讯云函数计算。

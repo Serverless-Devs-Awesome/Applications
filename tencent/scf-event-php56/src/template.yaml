@@ -9,7 +9,7 @@ MyFunctionDemo:
       Name: serverless_demo_php56
       Description: 这是一个Php5.6的测试案例
       CodeUri: ./
-      Handler: index.handler
+      Handler: index.main_handler
       MemorySize: 128
       Runtime: PHP5
       Timeout: 5

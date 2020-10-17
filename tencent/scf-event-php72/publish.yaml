@@ -1,6 +1,6 @@
 Type: Application
 Name: php72
-Version: 0.0.2
+Version: 0.0.3
 Provider:
   - Tencent
 Description: 快速部署一个PHP7.2的Event类型的Hello World函数到腾讯云函数计算。

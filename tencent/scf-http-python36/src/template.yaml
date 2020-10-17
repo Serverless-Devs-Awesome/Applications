@@ -6,12 +6,12 @@ MyFunctionDemo:
     Namespace:
       Name: default
     Function:
-      Name: serverless_demo_nodejs89_http
-      Description: 这是一个Node.JS 8.9的测试案例
+      Name: serverless_demo_python36_http
+      Description: 这是一个Python3.6的测试案例
       CodeUri: ./
       Handler: index.main_handler
       MemorySize: 128
-      Runtime: Nodejs8.9
+      Runtime: Python3.6
       Timeout: 5
       Triggers:
         - Type: apigw # api网关触发器，无apigw服务，自动创建服务

@@ -1,6 +1,6 @@
-# 腾讯云函数计算：Node.JS 8.9 Hello World
+# 腾讯云函数计算：PHP7.2 Hello World
 
-通过该应用，您可以简单快速的创建一个运行时为Node.JS 8.9的腾讯云函数计算服务。
+通过该应用，您可以简单快速的创建一个运行时为PHP7.2的腾讯云函数计算服务。
 
 - 下载命令行工具：`npm install -g @serverless-devs/s`
 
@@ -9,9 +9,9 @@
         ![](https://images.serverlessfans.com/scf-tencent/tencent-start-secret.jpg)
     2. 通过`s config add`进行项目配置
         ![](https://images.serverlessfans.com/scf-tencent/tencent-config.jpg)
-- 初始化一个模版项目：`s init nodejs89-http -p tencent`
+- 初始化一个模版项目：`s init php72-http -p tencent`
     ![](https://images.serverlessfans.com/s-tool/zh/start-4.jpg)
-- 进入项目：`cd nodejs89-http`
+- 进入项目：`cd php72-http`
 - 执行：`s deploy`即可进行部署：
     ![](https://images.serverlessfans.com/s-tool/zh/start-6.jpg)
     此处选择我们配置好的密钥，按回车继续部署：

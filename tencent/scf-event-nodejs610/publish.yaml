@@ -1,6 +1,6 @@
 Type: Application
 Name: nodejs610
-Version: 0.0.1
+Version: 0.0.2
 Provider:
   - Tencent
 Description: 快速部署一个Node.JS 6.10的Event类型的Hello World函数到腾讯云函数计算。
