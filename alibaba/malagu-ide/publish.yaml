@@ -1,6 +1,6 @@
 Type: Application
 Name: malagu-ide
-Version: 0.0.2
+Version: 0.0.3
 Provider:
   - Alibaba
 Description: 基于阿里云函数计算云IDE

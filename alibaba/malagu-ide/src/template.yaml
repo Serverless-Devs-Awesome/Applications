@@ -26,5 +26,4 @@ ServerlessIde:
               - POST
               - PUT
             Domains:
-              - Domain: AUTO
-  Access: release
+              - Domain: Auto
