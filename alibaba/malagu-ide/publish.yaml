@@ -1,15 +1,14 @@
 Type: Application
-Name: nodejs8-http
-Version: 0.0.5
+Name: malagu-ide
+Version: 0.0.2
 Provider:
   - Alibaba
-Description: 快速部署一个Nodejs8的HTTP类型的Hello World函数到阿里云函数计算。
+Description: 基于阿里云函数计算云IDE
 HomePage: https://serverless.aliyun.com/
 Tags:
-  - 函数计算
-  - nodejs
-  - http
-Category: 新手入门
+  - IDE
+  - malagu
+Category: 其他
 Service:
   函数计算:
     Authorities:
@@ -17,4 +16,4 @@ Service:
       - 删除函数
       - 创建服务
       - 删除服务
-    Runtime: Node.JS
+    Runtime: Node.js

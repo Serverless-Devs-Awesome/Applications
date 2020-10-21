@@ -24,4 +24,4 @@ MyFunctionDemo:
               - POST
               - PUT
             Domains:
-              - Domain: AUTO
+              - Domain: Auto

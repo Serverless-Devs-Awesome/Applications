@@ -1,15 +1,15 @@
 Type: Application
 Name: fc-poem
-Version: 0.0.5
+Version: 0.0.6
 Provider:
   - Alibaba
 Description: 基于阿里云函数计算的自动写诗应用
 HomePage: https://serverless.aliyun.com/
 Tags:
   - 函数计算
-  - 你好世界
-  - 新手入门
-Category: 新手入门
+  - poem
+  - 自动写诗
+Category: 人工智能
 Service:
   函数计算:
     Authorities:

@@ -1,21 +1,23 @@
-MyFunctionDemo:
+ServerlessIde:
   Component: fc
   Provider: alibaba
   Properties:
     Region: cn-hangzhou
     Service:
-      Name: ServerlessToolProject
-      Description: 欢迎使用ServerlessTool
+      Name: ServerlessIde
+      Description: Serverless IDE
+      Nas: Auto
     Function:
-      Name: serverless_demo_nodejs12_http
-      Description: 这是一个Nodejs12-HTTP的测试案例
-      CodeUri: ./
+      Name: serverless_ide
+      Description: Serverless IDE
+      CodeUri: ./src
       Handler: index.handler
-      MemorySize: 128
-      Runtime: nodejs12
+      MemorySize: 1024
+      Runtime: custom
       Timeout: 5
+      InstanceConcurrency: 100
       Triggers:
-        - Name: TriggerNameHttp
+        - Name: ideTrigger
           Type: HTTP
           Parameters:
             AuthType: ANONYMOUS
@@ -24,4 +26,5 @@ MyFunctionDemo:
               - POST
               - PUT
             Domains:
-              - Domain: Auto
+              - Domain: AUTO
+  Access: release
