@@ -1,0 +1,27 @@
+MyFunctionDemo:
+  Component: scf
+  Provider: tencent
+  Properties:
+    Region: ap-guangzhou
+    Namespace:
+      Name: default
+    Function:
+      Name: OneManager
+      CodeUri: ./src
+      Handler: index.main_handler
+      MemorySize: 256
+      Runtime: PHP7
+      Timeout: 5
+      Triggers:
+        - Type: apigw
+          Name: OneManager
+          Parameters:
+            Protocols:
+              - http
+            Description: the serverless service
+            Environment: release
+            API:
+              - path: /
+                method: ANY
+            Function:
+              IsIntegratedResponse: TRUE

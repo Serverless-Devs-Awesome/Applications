@@ -1,0 +1,19 @@
+Type: Application
+Name: OneManagerPhp
+Version: 0.0.1
+Provider:
+  - Tencent
+Description: 部署在腾讯云函数计算的OneManager
+HomePage: https://github.com/qkqpttgf/OneManager-php
+Tags:
+  - OneManager
+  - PHP
+Category: 其他
+Service:
+  函数计算:
+    Authorities:
+      - 创建函数
+      - 删除函数
+      - 创建服务
+      - 删除服务
+    Runtime: PHP

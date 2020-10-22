@@ -44,6 +44,7 @@
     - [Serverless为你写诗](alibaba/fc-poem)
 - 其他
     - [Serverless Ide](alibaba/malagu-ide)
+    - [OneManager-php](alibaba/OneManager-php)
 
 # 百度云
 
@@ -70,3 +71,8 @@
         - [scf-http-php7.2](tencent/scf-http-php7)
         - [scf-http-python2.7](tencent/scf-http-python2.7)
         - [scf-http-python3.6](tencent/scf-http-python3.6)
+        
+## 其他
+
+- 其他
+    - [OneManager-php](tencent/OneManager-php)
