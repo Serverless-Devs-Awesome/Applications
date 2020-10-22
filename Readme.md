@@ -38,6 +38,13 @@
     - [webpy](alibaba/webpy)
     - [tornado](alibaba/tornado)
 
+## 其他
+
+- 人工智能
+    - [Serverless为你写诗](alibaba/fc-poem)
+- 其他
+    - [Serverless Ide](alibaba/malagu-ide)
+
 # 百度云
 
 # 华为云
