@@ -1,5 +1,5 @@
 KoaComponent:
-  Component: express
+  Component: koa
   Provider: alibaba
   Extends:
     deploy:
@@ -9,4 +9,3 @@ KoaComponent:
   Properties:
     Region: 'cn-hangzhou'
     CodeUri: './src'
-    App: index.js
