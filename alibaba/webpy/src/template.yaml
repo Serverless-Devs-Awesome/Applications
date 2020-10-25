@@ -9,4 +9,4 @@ WebPyComponent:
   Properties:
     Region: 'cn-hangzhou'
     CodeUri: './src'
-    App: app
+    App: index.py

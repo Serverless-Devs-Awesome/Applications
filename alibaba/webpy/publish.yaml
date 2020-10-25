@@ -1,6 +1,6 @@
 Type: Application
 Name: webpy
-Version: 0.0.5
+Version: 0.0.6
 Provider:
   - Alibaba
 Description: 快速部署一个Web.Py框架到阿里云函数计算

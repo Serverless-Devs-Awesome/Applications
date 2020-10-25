@@ -1,6 +1,6 @@
 Type: Application
 Name: fc-poem
-Version: 0.0.6
+Version: 0.0.7
 Provider:
   - Alibaba
 Description: 基于阿里云函数计算的自动写诗应用

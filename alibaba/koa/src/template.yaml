@@ -9,3 +9,4 @@ KoaComponent:
   Properties:
     Region: 'cn-hangzhou'
     CodeUri: './src'
+    App: index.js
