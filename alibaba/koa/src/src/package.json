@@ -1,7 +1,0 @@
-{
-  "name": "src",
-  "version": "1.0.0",
-  "dependencies": {
-    "koa": "^2.13.0"
-  }
-}
