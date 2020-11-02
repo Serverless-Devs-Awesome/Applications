@@ -137,38 +137,38 @@ Serverless Devs Applications 搜集了目前Serverless Devs App Store中已有�
 </tr>
 <tr>
 <td align="center">1</td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/fc-http-nodejs6">scf-event-nodejs6</a></td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-alibaba-application/tree/master/fc-http-nodejs6">scf-http-nodejs6</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/scf-http-nodejs6">scf-event-nodejs6</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-alibaba-application/tree/master/scf-http-nodejs6">scf-http-nodejs6</a></td>
 </tr>
 <tr>
 <td align="center">2</td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/fc-event-nodejs8">scf-event-nodejs8</a></td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/fc-http-nodejs8">scf-http-nodejs8</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/scf-event-nodejs8">scf-event-nodejs8</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/scf-http-nodejs8">scf-http-nodejs8</a></td>
 </tr>
 <tr>
 <td align="center">3</td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/fc-event-nodejs10">scf-event-nodejs10</a></td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/fc-http-nodejs10">scf-http-nodejs10</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/scf-event-nodejs10">scf-event-nodejs10</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/scf-http-nodejs10">scf-http-nodejs10</a></td>
 </tr>
 <tr>
 <td align="center">4</td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/fc-event-nodejs12">scf-event-nodejs12</a></td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/fc-http-nodejs12">scf-http-nodejs12</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/scf-event-nodejs12">scf-event-nodejs12</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/scf-http-nodejs12">scf-http-nodejs12</a></td>
 </tr>
 <tr>
 <td align="center">5</td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-alibaba-application/tree/master/fc-event-php7">scf-event-php7</a></td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-alibaba-application/tree/master/fc-http-php7">scf-http-php7</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-alibaba-application/tree/master/scf-event-php7">scf-event-php7</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-alibaba-application/tree/master/scf-http-php7">scf-http-php7</a></td>
 </tr>
 <tr>
 <td align="center">6</td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-event-python2.7">fc-event-python2.7</a></td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-http-python2.7">fc-http-python2.7</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/scf-event-python2.7">fc-event-python2.7</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/scf-http-python2.7">fc-http-python2.7</a></td>
 </tr>
 <tr>
 <td align="center">7</td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-event-python3.6">fc-event-python3.6</a></td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-http-python3.6">fc-http-python3.6</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/scf-event-python3.6">fc-event-python3.6</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/scf-http-python3.6">fc-http-python3.6</a></td>
 </tr>
 </table> 
         
