@@ -107,16 +107,19 @@ Serverless Devs Applications 搜集了目前Serverless Devs App Store中已有�
 <th>No.</th>
 <th>人工智能</th>
 <th>其他</th>
+<th>音视频处理</th>
 </tr>
 <tr>
 <td align="center">1</td>
 <td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-poem-alibaba-application">Serverless为你写诗</a></td>
 <td align="center"><a href="https://github.com/Serverless-Devs-Awesome/malagu-ide-alibaba-application">Serverless Ide</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/ffmpeg-alibaba-application">Ffmpeg</a></td>
 </tr>
 <tr>
 <td align="center">2</td>
 <td align="center"></td>
 <td align="center"><a href="https://github.com/Serverless-Devs-Awesome/OneManager-php-alibaba-application">OneManager-php</a></td>
+<td align="center"></td>
 </tr>
 </table>
 
