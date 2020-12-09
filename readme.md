@@ -57,6 +57,11 @@ Serverless Devs Applications 搜集了目前Serverless Devs App Store中已有�
 <td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-event-python3.6">fc-event-python3.6</a></td>
 <td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-http-python3.6">fc-http-python3.6</a></td>
 </tr>
+<tr>
+<td align="center">8</td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-event-java8">fc-event-java8</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-http-java8">fc-http-java8</a></td>
+</tr>
 </table>
 
 ## 框架模板
