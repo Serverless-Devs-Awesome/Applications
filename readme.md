@@ -24,23 +24,23 @@ Serverless Devs Applications 搜集了目前Serverless Devs App Store中已有�
 </tr>
 <tr>
 <td align="center">1</td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-http-nodejs6">fc-event-nodejs6</a></td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-http-nodejs6">fc-http-nodejs6</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-http-node.js6">fc-event-nodejs6</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-http-node.js6">fc-http-nodejs6</a></td>
 </tr>
 <tr>
 <td align="center">2</td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-event-nodejs8">fc-event-nodejs8</a></td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-http-nodejs8">fc-http-nodejs8</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-event-node.js8">fc-event-nodejs8</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-http-node.js8">fc-http-nodejs8</a></td>
 </tr>
 <tr>
 <td align="center">3</td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-event-nodejs10">fc-event-nodejs10</a></td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-http-nodejs10">fc-http-nodejs10</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-event-node.js10">fc-event-nodejs10</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-http-node.js10">fc-http-nodejs10</a></td>
 </tr>
 <tr>
 <td align="center">4</td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-event-nodejs12">fc-event-nodejs12</a></td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-http-nodejs12">fc-http-nodejs12</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-event-node.js12">fc-event-nodejs12</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-application/tree/master/fc-http-node.js12">fc-http-nodejs12</a></td>
 </tr>
 <tr>
 <td align="center">5</td>
