@@ -147,23 +147,23 @@ Serverless Devs Applications 搜集了目前Serverless Devs App Store中已有�
 </tr>
 <tr>
 <td align="center">1</td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/scf-http-nodejs6">scf-event-nodejs6</a></td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-alibaba-application/tree/master/scf-http-nodejs6">scf-http-nodejs6</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/scf-http-node.js6">scf-event-nodejs6</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-alibaba-application/tree/master/scf-http-node.js6">scf-http-nodejs6</a></td>
 </tr>
 <tr>
 <td align="center">2</td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/scf-event-nodejs8">scf-event-nodejs8</a></td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/scf-http-nodejs8">scf-http-nodejs8</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/scf-event-node.js8">scf-event-nodejs8</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/scf-http-node.js8">scf-http-nodejs8</a></td>
 </tr>
 <tr>
 <td align="center">3</td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/scf-event-nodejs10">scf-event-nodejs10</a></td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/scf-http-nodejs10">scf-http-nodejs10</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/scf-event-node.js10">scf-event-nodejs10</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/scf-http-node.js10">scf-http-nodejs10</a></td>
 </tr>
 <tr>
 <td align="center">4</td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/scf-event-nodejs12">scf-event-nodejs12</a></td>
-<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/scf-http-nodejs12">scf-http-nodejs12</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/scf-event-node.js12">scf-event-nodejs12</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-application/tree/master/scf-http-node.js12">scf-http-nodejs12</a></td>
 </tr>
 <tr>
 <td align="center">5</td>
